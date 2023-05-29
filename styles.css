@@ -1,0 +1,101 @@
+/* Estilos generales */
+header {
+    background-color: #e99595;
+    padding: 20px;
+  }
+  
+  nav {
+    background-color: #000000;
+    color: #000000;
+    padding: 10px;
+  }
+  
+  section {
+    background-color: #0f0f0f;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  body {
+    background-color: #000000; /* Cambia el color de fondo a gris claro (#f2f2f2) */
+    background-image: url("ruta-de-la-imagen.jpg"); /* Cambia la imagen de fondo */
+    background-repeat: no-repeat; /* Evita que la imagen de fondo se repita */
+    background-size: cover; /* Ajusta el tamaño de la imagen de fondo para cubrir todo el elemento */
+  }
+  
+  
+  /* Estilos específicos para la Sección 1 */
+
+    #seccion1 {
+        background: linear-gradient(to bottom, #F74F62, #EB5F58 ,#D67B72, #ffffff); /* Fondo degradado vertical de rojo a verde a azul */
+        padding: 30px; /* Ajustar el espaciado interno */
+        border: 1px solid #ddd; /* Agregar un borde */
+        border-radius: 5px; /* Aplicar bordes redondeados */
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Agregar una sombra */
+        text-align: center; /* Centrar el contenido */
+        color: #000000; /* Cambiar el color del texto */
+        font-size: 22px; /* Ajustar el tamaño de fuente */
+  }
+  
+  /* Estilos específicos para la Sección 2 */
+  #seccion2 {
+    /* Estilos para la Sección 2 */
+    background: linear-gradient(to bottom, #e4a1a1, #c53c3c); /* Fondo degradado vertical de rojo a verde */
+    padding: 30px; /* Ajustar el espaciado interno */
+    border: 1px solid #ddd; /* Agregar un borde */
+    border-radius: 5px; /* Aplicar bordes redondeados */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Agregar una sombra */
+    text-align: center; /* Centrar el contenido */
+    color: #333; /* Cambiar el color del texto */
+    font-size: 18px; /* Ajustar el tamaño de fuente */
+  }
+  
+  /* Estilos específicos para la Sección 3 */
+  #seccion3 {
+    /* Estilos para la Sección 3 */
+    background: linear-gradient(to bottom, #e4a1a1, #c53c3c); /* Fondo degradado vertical de rojo a verde */
+    padding: 30px; /* Ajustar el espaciado interno */
+    border: 1px solid #ddd; /* Agregar un borde */
+    border-radius: 5px; /* Aplicar bordes redondeados */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Agregar una sombra */
+    text-align: center; /* Centrar el contenido */
+    color: #333; /* Cambiar el color del texto */
+    font-size: 18px; /* Ajustar el tamaño de fuente */
+  }
+  #seccion4 {
+    /* Estilos para la Sección 3 */
+    background: linear-gradient(to bottom, #e4a1a1, #c53c3c); /* Fondo degradado vertical de rojo a verde */
+    padding: 30px; /* Ajustar el espaciado interno */
+    border: 1px solid #ddd; /* Agregar un borde */
+    border-radius: 5px; /* Aplicar bordes redondeados */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Agregar una sombra */
+    text-align: center; /* Centrar el contenido */
+    color: #333; /* Cambiar el color del texto */
+    font-size: 18px; /* Ajustar el tamaño de fuente */
+  }
+  #seccion5 {
+    /* Estilos para la Sección 3 */
+    background: linear-gradient(to bottom, #e4a1a1, #c53c3c); /* Fondo degradado vertical de rojo a verde */
+    padding: 30px; /* Ajustar el espaciado interno */
+    border: 1px solid #ddd; /* Agregar un borde */
+    border-radius: 5px; /* Aplicar bordes redondeados */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Agregar una sombra */
+    text-align: center; /* Centrar el contenido */
+    color: #333; /* Cambiar el color del texto */
+    font-size: 18px; /* Ajustar el tamaño de fuente */
+  }
+  #seccion6 {
+    /* Estilos para la Sección 3 */
+    background: linear-gradient(to bottom, #e4a1a1, #c53c3c); /* Fondo degradado vertical de rojo a verde */
+    padding: 30px; /* Ajustar el espaciado interno */
+    border: 1px solid #ddd; /* Agregar un borde */
+    border-radius: 5px; /* Aplicar bordes redondeados */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Agregar una sombra */
+    text-align: center; /* Centrar el contenido */
+    color: #333; /* Cambiar el color del texto */
+    font-size: 18px; /* Ajustar el tamaño de fuente */
+  }
